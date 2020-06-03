@@ -1,0 +1,46 @@
+{
+    "equipes": [
+        {
+            "id": 1,
+            "nome": "Vanwall",
+            "ano": 1958 
+        },
+        {
+            "id": 2,
+            "nome": "Cooper",
+            "ano": 1959 
+        },
+        {
+            "id": 3,
+            "nome": "Cooper",
+            "ano": 1960 
+        },
+        {
+            "id": 4,
+            "nome": "Ferrari",
+            "ano": 1961
+        },
+        {
+            "id": 5,
+            "nome": "BRM",
+            "ano": 1962
+        },
+        {
+            "id": 6,
+            "nome": "Lotus",
+            "ano": 1958 
+        }
+    ],
+    "pilotos": [
+        {
+            "id": 44,
+            "nome": "Lewis Carl Hamilton",
+            "ano": 2008
+        },
+        {
+            "id": 1,
+            "nome": "Michael Schumacher",
+            "ano": 2000
+        }
+    ]
+}

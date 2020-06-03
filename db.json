@@ -29,6 +29,36 @@
             "id": 6,
             "nome": "Lotus",
             "ano": 1958 
+        },
+        {
+            "id": 7,
+            "nome": "Mercedes AMG F1",
+            "ano": 2014
+        },
+        {
+            "id": 8,
+            "nome": "Mercedes AMG F1",
+            "ano": 2015
+        },
+        {
+            "id": 9,
+            "nome": "Mercedes AMG F1",
+            "ano": 2016
+        },
+        {
+            "id": 10,
+            "nome": "Mercedes AMG F1",
+            "ano": 2017
+        },
+        {
+            "id": 11,
+            "nome": "Mercedes AMG F1",
+            "ano": 2018
+        },
+        {
+            "id": 12,
+            "nome": "Mercedes AMG F1",
+            "ano": 2019
         }
     ],
     "pilotos": [
@@ -38,9 +68,99 @@
             "ano": 2008
         },
         {
-            "id": 1,
+            "id": 45,
+            "nome": "Lewis Carl Hamilton",
+            "ano": 2014
+        },
+        {
+            "id": 46,
+            "nome": "Lewis Carl Hamilton",
+            "ano": 2015
+        },
+        {
+            "id": 47,
+            "nome": "Lewis Carl Hamilton",
+            "ano": 2017
+        },
+        {
+            "id": 43,
+            "nome": "Lewis Carl Hamilton",
+            "ano": 2018
+        },
+        {
+            "id": 42,
+            "nome": "Lewis Carl Hamilton",
+            "ano": 2019
+        },
+        {
+            "id": 8,
+            "nome": "Ayrton Senna da Silva",
+            "ano": 1988
+        },
+        {
+            "id": 12,
+            "nome": "Ayrton Senna da Silva",
+            "ano": 1990
+        },
+        {
+            "id": 11,
+            "nome": "Ayrton Senna da Silva",
+            "ano": 1991
+        },
+        {
+            "id": 10,
             "nome": "Michael Schumacher",
-            "ano": 2000
-        }
+            "ano": 2001
+        },
+        {
+            "id": 9,
+            "nome": "Michael Schumacher",
+            "ano": 2002
+        },
+        {
+            "id": 4,
+            "nome": "Michael Schumacher",
+            "ano": 2003
+        },
+        {
+            "id": 6,
+            "nome": "Michael Schumacher",
+            "ano": 2004
+        },
+        {
+            "id": 5,
+            "nome": "Sebastian Vettel",
+            "ano": 2010
+        },
+        {
+            "id": 13,
+            "nome": "Sebastian Vettel",
+            "ano": 2011
+        },
+        {
+            "id": 18,
+            "nome": "Sebastian Vettel",
+            "ano": 2012
+        },
+        {
+            "id": 15,
+            "nome": "Sebastian Vettel",
+            "ano": 2013
+        },
+        {
+            "id": 14,
+            "nome": "Fernando Alonso",
+            "ano": 2005
+        },
+        {
+            "id": 19,
+            "nome": "Fernando Alonso",
+            "ano": 2006
+        },
+        {
+            "id": 7,
+            "nome": "Kimi Raikkonen",
+            "ano": 2007
+        },
     ]
 }

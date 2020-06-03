@@ -28,7 +28,7 @@
         {
             "id": 6,
             "nome": "Lotus",
-            "ano": 1958 
+            "ano": 1963
         },
         {
             "id": 7,
@@ -59,6 +59,256 @@
             "id": 12,
             "nome": "Mercedes AMG F1",
             "ano": 2019
+        },
+        {
+            "id": 13,
+            "nome": "Ferrari",
+            "ano": 1964
+        },
+        {
+            "id": 14,
+            "nome": "Lotus",
+            "ano": 1965
+        },
+        {
+            "id": 15,
+            "nome": "Braham",
+            "ano": 1966
+        },
+        {
+            "id": 16,
+            "nome": "Braham",
+            "ano": 1967
+        },
+        {
+            "id": 17,
+            "nome": "Reino Unido Lotus",
+            "ano": 1968
+        },
+        {
+            "id": 18,
+            "nome": "Matra",
+            "ano": 1969
+        },
+        {
+            "id": 19,
+            "nome": "Lotus",
+            "ano": 1970
+        },
+        {
+            "id": 20,
+            "nome": "Tyrrell",
+            "ano": 1971
+        },
+        {
+            "id": 21,
+            "nome": "Lotus",
+            "ano": 1972
+        },
+        {
+            "id": 22,
+            "nome": "Lotus",
+            "ano": 1973
+        },
+        {
+            "id": 23,
+            "nome": "McLaren",
+            "ano": 1974
+        },
+        {
+            "id": 24,
+            "nome": "Ferrari",
+            "ano": 1975
+        },
+        {
+            "id": 25,
+            "nome": "Ferrari",
+            "ano": 1976
+        },
+        {
+            "id": 26,
+            "nome": "Ferrari",
+            "ano": 1977
+        },
+        {
+            "id": 27,
+            "nome": "Lotus",
+            "ano": 1978
+        },
+        {
+            "id": 28,
+            "nome": "Ferrari",
+            "ano": 1979
+        },
+        {
+            "id": 29,
+            "nome": "Williams",
+            "ano": 1980
+        },
+        {
+            "id": 30,
+            "nome": "Williams",
+            "ano": 1981
+        },
+        {
+            "id": 31,
+            "nome": "Ferrari",
+            "ano": 1982
+        },
+        {
+            "id": 32,
+            "nome": "Ferrari",
+            "ano": 1983
+        },
+        {
+            "id": 33,
+            "nome": "McLaren",
+            "ano": 1984
+        },
+        {
+            "id": 34,
+            "nome": "McLaren",
+            "ano": 1985
+        },
+        {
+            "id": 35,
+            "nome": "Williams",
+            "ano": 1986
+        },
+        {
+            "id": 36,
+            "nome": "Williams",
+            "ano": 1987
+        },
+        {
+            "id": 37,
+            "nome": "McLaren",
+            "ano": 1988
+        },
+        {
+            "id": 38,
+            "nome": "McLaren",
+            "ano": 1989
+        },
+        {
+            "id": 39,
+            "nome": "McLaren",
+            "ano": 1990
+        },
+        {
+            "id": 40,
+            "nome": "McLaren",
+            "ano": 1991
+        },
+        {
+            "id": 41,
+            "nome": "Williams",
+            "ano": 1992
+        },
+        {
+            "id": 42,
+            "nome": "Williams",
+            "ano": 1993
+        },
+        {
+            "id": 43,
+            "nome": "Benetton",
+            "ano": 1994
+        },
+        {
+            "id": 44,
+            "nome": "Benetton",
+            "ano": 1995
+        },
+        {
+            "id": 45,
+            "nome": "Williams",
+            "ano": 1996
+        },
+        {
+            "id": 46,
+            "nome": "Williams",
+            "ano": 1997
+        },
+        {
+            "id": 47,
+            "nome": "McLaren",
+            "ano": 1998
+        },
+        {
+            "id": 48,
+            "nome": "McLaren",
+            "ano": 1999
+        },
+        {
+            "id": 49,
+            "nome": "Ferrari",
+            "ano": 2000
+        },
+        {
+            "id": 50,
+            "nome": "Ferrari",
+            "ano": 2001
+        },
+        {
+            "id": 51,
+            "nome": "Ferrari",
+            "ano": 2002
+        },
+        {
+            "id": 52,
+            "nome": "Ferrari",
+            "ano": 2003
+        },
+        {
+            "id": 53,
+            "nome": "Ferrari",
+            "ano": 2004
+        },
+        {
+            "id": 54,
+            "nome": "Renault",
+            "ano": 2005
+        },
+        {
+            "id": 55,
+            "nome": "Renault",
+            "ano": 2006
+        },
+        {
+            "id": 56,
+            "nome": "Ferrari",
+            "ano": 2007
+        },
+        {
+            "id": 57,
+            "nome": "McLaren",
+            "ano": 2008
+        },
+        {
+            "id": 58,
+            "nome": "Brawn",
+            "ano": 2009
+        },
+        {
+            "id": 59,
+            "nome": "Red Bull",
+            "ano": 2010
+        },
+        {
+            "id": 50,
+            "nome": "Red Bull",
+            "ano": 2011
+        },
+        {
+            "id": 50,
+            "nome": "Red Bull",
+            "ano": 2012
+        },
+        {
+            "id": 50,
+            "nome": "Red Bull",
+            "ano": 2013
         }
     ],
     "pilotos": [
